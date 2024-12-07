@@ -32,12 +32,16 @@ Program for Computer Science and Data Science.
 - Node.js
 - WordPress
 - PHP
+- SQL
 - MySQL
 - Webpack
 - Bootstrap
-- Git
 - ASP.NET
 - SQL Server
+
+### Tools
+
+- Git
 
 ## Core Values 🧠
 
