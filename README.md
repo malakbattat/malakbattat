@@ -13,7 +13,7 @@ Program for Computer Science and Data Science.
 
 - 💻 I'm passionate about building impactful and meaningful web applications.
 - 🌍 I aim to channel my knowledge, learning, and experiences into creating solutions
-  that help the planet and its people — focusing on:
+    that help the planet and its people — focusing on:
 
 - 🌱 Environment and Sustainability
 - 🏫 Education
@@ -57,7 +57,7 @@ Program for Computer Science and Data Science.
 | **NLP News Evaluator**| Analyzing article sentiments with AI. | [View Project](https://github.com/malakbattat/Evaluate-a-News-Article-with-Natural-Language-Processing)|
 
 ## Connect with me 🔌
-<!-- I needed to use the LinkedIn icon over here-->
+<!-- I used HTML here because i needed to add the LinkedIn icon -->
 - <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn"
  width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/malak-battatt/)
   
@@ -72,3 +72,5 @@ Program for Computer Science and Data Science.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<malakbattat>&theme=tokyonight)
   
 ![Banner](./assets/passion.jpeg)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malakbattat&show_icons=true&hide_title=true&count_private=true)
