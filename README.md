@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!
 
-## Who am I? 🌟
+## Who I am 🌟
 
 Hi, I'm Malak Battatt!
 I'm a **Computer Science student** at Palestine Technical University – Kadoorie (PTUK),
