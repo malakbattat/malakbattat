@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 Hi, I'm Malak Battatt!
 I'm a **Computer Science student** at Palestine Technical University – Kadoorie (PTUK),
 a **front-end web developer**,
-and selected student into the Foundations track of the **MIT Emerging Talent**
+and selected student into the **MIT Emerging Talent**
 Program for Computer Science and Data Science.
 
 - 💻 I'm passionate about building impactful and meaningful web applications.
