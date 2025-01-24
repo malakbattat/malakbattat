@@ -9,7 +9,7 @@ Hi, I'm Malak Battatt!
 I'm a **Computer Science student** at Palestine Technical University – Kadoorie (PTUK),
 a **front-end web developer**,
 and selected student into the **MIT Emerging Talent**
-Program for Computer Science and Data Science.
+Program for Computer and Data Science.
 
 - 💻 I'm passionate about building impactful and meaningful web applications.
 - 🌍 I aim to channel my knowledge, learning, and experiences into creating solutions
